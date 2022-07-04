@@ -5,7 +5,7 @@ The Movie DB app for iOS platform using SwiftUI.
 Architecture :- MVVM  
 IDE :- Xcode 13.4.1  
 Language :- Swift 5, SwiftUI
-Design :- Giphy trending & Search gif's view as listing and grid  
+Design :- TMDB view as listing movies  
 
 # Functionality
 
